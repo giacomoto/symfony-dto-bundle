@@ -1,0 +1,22 @@
+{
+    "name": "giacomoto/symfony-dto",
+    "description": "Symfony Dto Bundle based on JSMSerializer",
+    "type": "symfony-bundle",
+    "minimum-stability": "stable",
+    "version": "1.0.0",
+    "require": {
+        "jms/serializer-bundle": "^5.0",
+        "symfony/expression-language": "6.*"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Giacomoto\\Bundle\\GiacomotoDtoBundle\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "giacomoto"
+        }
+    ]
+}

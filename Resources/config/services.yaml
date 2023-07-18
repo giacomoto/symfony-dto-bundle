@@ -1,0 +1,6 @@
+parameters:
+
+services:
+    Giacomoto\Bundle\GiacomotoDtoBundle\Service\JMSSerializerService:
+
+

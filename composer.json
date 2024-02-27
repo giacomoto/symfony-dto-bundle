@@ -3,10 +3,10 @@
     "description": "Symfony Dto Bundle based on JSMSerializer",
     "type": "symfony-bundle",
     "minimum-stability": "stable",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "require": {
-        "jms/serializer-bundle": "^5.0",
-        "symfony/expression-language": "6.*"
+        "jms/serializer-bundle": "*",
+        "symfony/expression-language": "7.*"
     },
     "license": "MIT",
     "autoload": {
